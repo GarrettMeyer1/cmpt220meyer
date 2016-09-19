@@ -1,0 +1,40 @@
+6 pts
+
+Garrett,
+
+About your essay...
+
+- Good content
+- Good length
+- Good spelling and grammar
+
+
+About your programs...
+
+Functionality
+
+- The output does not follow instructions given by program. 
+
+- Problem 1.3 is wrong.  -1pt
+
+- Problem 2.5 is wrong.  -1pt
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- You used tabs, which is forbidden. -1pt
+
+- There is incorrect indentation. -1pt
+
+- Most class names do not start with capital letter. They must.
+
+
+Please make sure you follow the style guidelines. Penalties will be higher as
+the semester moves forward.
+
+
+Peace,
+
+- Dr. Rivas

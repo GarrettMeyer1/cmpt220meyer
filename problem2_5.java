@@ -10,7 +10,7 @@
 */
 import java.util.Scanner;
 public class problem2_5 {
-
+  // == you are using tabs!!
 	public static void main(String[] args) {
 	
 		Scanner input = new Scanner(System.in);
@@ -25,7 +25,7 @@ public class problem2_5 {
 		subtotal = input.nextDouble();
 		gratuityRate = input.nextDouble();
 
-		tip = subtotal + (gratuityRate * .01);
+		tip = subtotal + (gratuityRate * .01); // == this is wrong!
 		total = subtotal + tip;
 
 		System.out.print("The total is $" + total + "The gratuity is $" + tip + "The subtotal is $" + subtotal);

@@ -9,9 +9,9 @@
 *The file "Problem 1.3" is a program that displays a pattern.
 */
 public class Problem1_3{
-
+  // == incorrect indentation
     public static void main(String[] args) {
-
+    // == the output is wrong because you are using tabs
         System.out.println(" 	J 	 A 	 V	   V   A	");
         System.out.println("    J 	A A	  V   V	  A A	");
         System.out.println("J   J  AAAAA   V V	 AAAAA	");

@@ -12,7 +12,7 @@
 import java.util.Scanner;
 
 public class problem2_6 {
-
+  // == you are using tabs!!
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
@@ -23,7 +23,7 @@ public class problem2_6 {
 		int firstDigit = number % 10;
 		int remainingNumber = number / 10;
 		int secondDigit = remainingNumber % 10;
-			remainingNumber = remainingNumber / 10;
+			remainingNumber = remainingNumber / 10; // incorrect indentation
 		int thirdDigit = remainingNumber % 10;
 
 		int sum = firstDigit + secondDigit + thirdDigit;
