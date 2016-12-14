@@ -1,0 +1,14 @@
+36 pts
+
+The project uses ArrayLists to store daily schedules and prints a report of
+them. The idea is good.
+
+However, there are some issues...
+Writeup:
+- It does not follow the structure required. Abstract, Introduction, etc. -1pt
+
+Code:
+- There is incorrect indentation. -1pt
+
+Overall:
+- The project is fairly easy. You can do better than this. -2pts
